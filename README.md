@@ -1,1 +1,4 @@
 # AI-POWERED-ADAPTIVE-TRAFFIC-LIGHT-SYSTEM
+
+Modern cities face severe traffic jams which are worsened by non-adjustable fixed traffic signals which do not consider current traffic situations. Through simulation, an AI-Powered Adaptive Traffic Light System optimizes traffic flow by adjusting signal timings based on current pedestrian and vehicle densities, weather conditions, and emergency vehicle requirements. The system utilizes Python along with Pygame for its development while using a rule-based AI algorithm that determines optimal green light durations for traffic volumes and implements external weather elements affecting speed rates. Stochastic procedures within the simulation generate vehicles together with pedestrians and emergency vehicles in a manner that matches actual traffic conditions at a four-way intersection.
+
